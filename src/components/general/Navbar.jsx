@@ -9,7 +9,7 @@ function Navbar() {
         <li><a href="">Productos</a></li>
         <li><a href="">Contactos</a></li>
         </ul>
-        <div>Boton-carritos</div>
+        <div>Carrito de compras</div>
     </div>
   )
 }
